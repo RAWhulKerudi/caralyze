@@ -2,6 +2,9 @@
 
 # CARALYZE – Car Damage Detection Using Deep Learning
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 Caralyze let's you drag and drop an image of a car and it will tell you what kind of damage it has. The model is trained on third quarter front and rare view hence the picture should capture the third quarter front or rare view of a car.
 
 ---
