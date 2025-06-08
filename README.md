@@ -90,7 +90,7 @@ caralyse/
 ## 🌐 Project Links
 
 - 🔗 GitHub Repo: [GitHub](https://github.com/RAWhulKerudi/caralyze)
-- 🚀 Live App: [Demo](https://github.com/RAWhulKerudi/)
+- 🚀 Live App: [Demo](https://caralyze-damage-detection.streamlit.app/)
 
 ---
 
