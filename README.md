@@ -94,11 +94,7 @@ caralyse/
 
 ---
 
-## 🤝 Contributing
 
-Pull requests are welcome! If you have suggestions for improvement—whether it’s model performance, UI enhancement, or feature addition—feel free to contribute.
-
----
 
 
 
